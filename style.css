@@ -26,7 +26,7 @@ body {
        margin: 0;
    }
    #nav-ul {
-       list-style-image: none;
+       list-style-image: show;
    }
    .nav-li {
        display: inline-block;
