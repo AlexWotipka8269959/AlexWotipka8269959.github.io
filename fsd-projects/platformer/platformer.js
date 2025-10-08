@@ -39,7 +39,7 @@ $(function () {
       createPlatform(10, 125, 300, 15)
 
     // TODO 3 - Create Collectables
-
+      createCollectable("diamond", 10, 75)
 
 
     
